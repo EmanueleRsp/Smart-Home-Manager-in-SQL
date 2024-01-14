@@ -2,7 +2,7 @@
 
 The goal was to develop a **relational database** on **Oracle MySQL DBMS** to store data related to a system that manages a smart home, with some operations and **Data Analytics** functionalities.
 
-The project was a team work, developed with [**@RacheleCiulli**]().
+The project was a team work, developed with **@RacheleCiulli**.
 
 - [SmartHome Manager using SQL](#smarthome-manager-using-sql)
   - [Documentation](#documentation)
