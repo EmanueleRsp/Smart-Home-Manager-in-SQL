@@ -15,7 +15,7 @@ The project was a team work, developed with **@RacheleCiulli**.
 
 ## Documentation
 
-> _This project was developed during "Computer Networks" course for the Bachelor's degree in Computer Engineering at the University of Pisa, so inner workings and implementation details are described in **italian**._
+> _This project was developed during "Databases" course for the Bachelor's degree in Computer Engineering at the University of Pisa, so inner workings and implementation details are described in **italian**._
 
 The **main documentation** of the project is available [here](/docs/Documentazione.pdf): it contains a quite detailed description of each step of the project, from the analysis of the problem to the implementation of the solution, including descriptions and analysis of **ER diagram**, **SQL code** used to create the database, **queries** used to perform the required operations and the **Data Analytics** development.
 
