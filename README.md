@@ -10,6 +10,7 @@ The project was a team work, developed with **@RacheleCiulli**.
   - [How to run scripts](#how-to-run-scripts)
   - [Final evaluation](#final-evaluation)
 
+For any issue or question, please don't hesitate to contact me!
 
 ## Documentation
 
