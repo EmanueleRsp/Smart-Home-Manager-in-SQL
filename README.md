@@ -11,8 +11,6 @@ The project was a team work, developed with **@RacheleCiulli**.
   - [Final evaluation](#final-evaluation)
 
 
----
-
 ## Documentation
 
 > _This project was developed during "Databases" course for the Bachelor's degree in Computer Engineering at the University of Pisa, so inner workings and implementation details are described in **italian**._
@@ -23,7 +21,6 @@ For a detailed visualization of the **ER diagram** of the database, you can chec
 
 If you want to check the **tasks** required for the project, you can find them in the pdf file [here](/docs/Specifiche.pdf).
 
----
 
 ## Project structure
 
@@ -32,9 +29,10 @@ The project is structured in the following way:
 - **`scripts/`** folder contains all the **SQL code** used to create the database and the **queries** used to perform the required operations. For a description of each script, check the last chapter of the main documentation ["Implementazione su DBMS"](/docs/Documentazione.pdf).
 - **`README.md`** is the **file** you are reading right now :).
 
----
 
 ## How to run scripts
+
+You can download the latest zip file released from [here](https://github.com/EmanueleRsp/Smart-Home-Manager-in-SQL/releases). 
 
 To run the scripts, you need to have **Oracle MySQL DBMS** installed on your machine. You can download it from [here](https://dev.mysql.com/downloads/mysql/).
 
