@@ -1,5 +1,8 @@
 # SmartHome Manager using SQL
 
+[![GitHub Release](https://img.shields.io/github/release/EmanueleRsp/Smart-Home-Manager-in-SQL?style=flat)](https://github.com/EmanueleRsp/Smart-Home-Manager-in-SQL/releases) [![GitHub license](https://img.shields.io/github/license/EmanueleRsp/Smart-Home-Manager-in-SQL?style=flat)](https://github.com/EmanueleRsp/Smart-Home-Manager-in-SQL/blob/main/LICENSE) 
+[![Stars](https://img.shields.io/github/stars/EmanueleRsp/Smart-Home-Manager-in-SQL?style=social&label=Stars)](https://github.com/EmanueleRsp/Smart-Home-Manager-in-SQL/stargazers) 
+
 The goal was to develop a **relational database** on **Oracle MySQL DBMS** to store data related to a system that manages a smart home, with some operations and **Data Analytics** functionalities.
 
 The project was a team work, developed with **@RacheleCiulli**.
